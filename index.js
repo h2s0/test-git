@@ -1,3 +1,6 @@
+// Editing file for practicing git
+
+
 // 유저 아이콘 버튼, 유저 정보 창
 const userIcon = document.querySelector('.user__button');
 const userInfo = document.querySelector('.user');
